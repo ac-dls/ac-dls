@@ -9,7 +9,7 @@
 
 - 🤝 And currently expanding my portfolio on [Photonics](https://github.com/ac-dls/photonics_comsol)
 
-- ⚡ Fun fact [The "one-electron universe" hypothesis still keeps me up at night](The "one-electron universe" hypothesis still keeps me up at night)
+- ⚡ Fun fact The "one-electron universe" hypothesis still keeps me up at night
 
 - 📫 How to reach me **anaacarolinadiasls@gmail.com**
 
